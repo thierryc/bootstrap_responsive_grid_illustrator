@@ -4,13 +4,9 @@ Bootstrap Responsive Grid Illustrator Template
 ##Grid options
 See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
 
-Extra small devices Phones (<768px)	Small devices Tablets (≥768px)	Medium devices Desktops (≥992px)	Large devices Desktops (≥1200px)
-Grid behavior	Horizontal at all times	Collapsed to start, horizontal above breakpoints.
-
 |Devices|SmartPhone|Tablets 768px|Medium Desktop|Large Desktop|
 |---|---|---|---|---|
 | Container | width	None (auto) |	750px	| 970px	| 1170px |
-
 | Class prefix |	.col-xs- |	.col-sm-	| .col-md- |	.col-lg- |
 | Column width | Auto	|  ~62px 	| ~81px |	~97px |
 | Gutter width	| 30px (15px on each side of a column) |
