@@ -1,4 +1,4 @@
-Bootstrap Responsive Grid Illustrator Template
+Bootstrap Responsive Grids for Illustrator (Template)
 ==============================================
 
 ##Grid options
